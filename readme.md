@@ -36,3 +36,9 @@ You should see the following output:
 		</Reference>
 	</ItemGroup>
 ```
+
+2. Run the app
+
+You should see the following output: 
+
+`Hello world from netcore2.1`
