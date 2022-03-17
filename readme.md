@@ -12,7 +12,7 @@ For simplicity, this uses a `FakeMsal` library, because it's not easy to underst
 
 1. Build and *pack* FakeMsal 
 
-Confirm that you see `~\Tfm\FakeMsal\bin\Debug\FakeMsal.1.0.0.nupkg`
+Confirm that you see `~\Tfm\FakeMsal\bin\Debug\FakeMsal.1.1.0.nupkg`
 
 2. Manually restore the packages for the app 
 
